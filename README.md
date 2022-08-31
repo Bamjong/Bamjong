@@ -1,9 +1,7 @@
 <div align="center">
 
-![Bamjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamjong&show_icons=true&theme=vue)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamjong&layout=compact&theme=vue)
+![Bamjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamjong&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bamjong&layout=compact&theme=dark)
 
 
 
