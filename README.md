@@ -6,8 +6,8 @@
 
 <br><br>
 
-## Hi there!;
-## I'm Bamjong🌰
+Hi there!  
+I'm Bamjong🌰
 
 <br><br>
 
