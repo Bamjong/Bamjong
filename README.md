@@ -4,8 +4,12 @@
 
 </div>
 
+<br><br>
 
-<br>
+## Hi there!;
+## I'm Bamjong🌰
+
+<br><br>
 
 ### Learning languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
