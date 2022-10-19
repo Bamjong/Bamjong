@@ -1,6 +1,6 @@
 <div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
 
 <br>
 
