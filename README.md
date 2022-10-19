@@ -4,11 +4,9 @@
 
 ## Hi there!🖐  It's Bamjong🌰
 <a href = "https://www.instagram.com/baaaaam_97/" >
-  <img src ="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white&style=flat-square"/>
 <a href = "https://www.facebook.com/qjawhd100/" >
-  <img src ="https://img.shields.io/badge/-Facebook-%231877F2?logo=facebook&logoColor=white"/>
-
-
+  <img src ="https://img.shields.io/badge/-Facebook-%231877F2?logo=facebook&logoColor=white&style=flat-square"/>
 
 <br>
 
