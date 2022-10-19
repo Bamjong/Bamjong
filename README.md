@@ -1,10 +1,14 @@
-<div align="left">
+<div align="center">
 
-![Bamjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamjong&show_icons=true&theme=vue)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
 
-</div>
 
-## Tech
+## Hi there! 🖐
+### It's Bamjong🌰
+
+<br>
+
+## Technology ✍
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,7 +26,10 @@
 <br>
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br>
+<br><br><br>
 
-Hi there!  
-It's Bamjong🌰
+## My stats 💪
+
+![Bamjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamjong&show_icons=true&theme=vue)
+
+</div>
