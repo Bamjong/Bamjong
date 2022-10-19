@@ -1,7 +1,8 @@
-<div align="center">
+<div align="left">
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
 
+<br>
 
 ## Hi there!🖐  It's Bamjong🌰
 
