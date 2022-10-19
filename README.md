@@ -24,4 +24,4 @@
 <br>
 
 Hi there!  
-I'm Bamjong🌰
+It's Bamjong🌰
