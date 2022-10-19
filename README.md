@@ -3,8 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
 
 
-## Hi there! 🖐
-### It's Bamjong🌰
+## Hi there!🖐  It's Bamjong🌰
 
 <br>
 
