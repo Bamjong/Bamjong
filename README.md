@@ -3,6 +3,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Bamjong&fontSize=90)
 
 ## Hi there!🖐  It's Bamjong🌰
+<a href = "https://www.instagram.com/baaaaam_97/" >
+  <img src ="https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white"/>
+<a href = "https://www.facebook.com/qjawhd100/" >
+  <img src ="https://img.shields.io/badge/-Facebook-%231877F2?logo=facebook&logoColor=white"/>
+
+
 
 <br>
 
