@@ -37,8 +37,4 @@
 ![rds](https://img.shields.io/badge/rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 <br>
 
-## My stats 💪
-
-![Bamjong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bamjong&show_icons=true&theme=vue)
-
 </div>
